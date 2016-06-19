@@ -5,3 +5,7 @@ dist/
 po/*.mo
 .cache/
 .tox/
+
+# IntelliJ IDEA / PyCharm
+.idea/
+rednotebook.iml
